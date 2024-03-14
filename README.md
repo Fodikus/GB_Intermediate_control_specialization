@@ -1,0 +1,2 @@
+# GB_Intermediate_control_specialization
+Промежуточная контрольная работа по блоку специализация
